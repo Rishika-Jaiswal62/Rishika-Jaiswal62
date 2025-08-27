@@ -25,6 +25,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20"/> **Java**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="20"/> **Tailwind CSS**
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika-jaiswal62&show_icons=true&locale=en&layout=compact" alt="rishika-jaiswal62" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-jaiswal62&" alt="rishika-jaiswal62" /></p>
