@@ -10,8 +10,6 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-- 📂 **Portfolio:** [rishika-jaiswal62.github.io](https://rishika-jaiswal62.github.io)  
-- 🔗 **LinkedIn:** [linkedin.com/in/rishika-jaiswal62](https://linkedin.com/in/rishika-jaiswal62)
 
 <h3 align="left">Languages and Tools:</h3>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> **HTML5**
