@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
 <h1 align="center">Hi 👋, I'm Rishika Jaiswal</h1>
 <h3 align="center">"Aspiring Developer | Learning MERN Stack"</h3>
 
