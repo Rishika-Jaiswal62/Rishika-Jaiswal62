@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishika Jaiswal</h1>
-<h3 align="center">"Full-Stack Developer in the making | Building scalable solutions with MERN 🚀"</h3>
+<h3 align="center">"Aspiring Developer | Learning MERN Stack"</h3>
 
 - 🔭 I’m currently working on **Movie Ticket Booking**
 
