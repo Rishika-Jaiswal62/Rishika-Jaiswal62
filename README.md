@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Movie Ticket Booking**
 
-- 🌱 I’m currently learning **Express.js English**
+- 🌱 I’m currently learning **Express.js and Project**
 
 - 📫 How to reach me **rishikajaiswal662gmail.com**
 
@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25"/> React  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25"/> Node.js  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25"/> Express.js  
@@ -24,7 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25"/> JavaScript  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25"/> Bootstrap  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25"/> Git  
-
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika-jaiswal62&show_icons=true&locale=en&layout=compact" alt="rishika-jaiswal62" /></p>
