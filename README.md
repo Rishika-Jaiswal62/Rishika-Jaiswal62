@@ -10,20 +10,10 @@
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rishika-jaiswal62" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    LinkedIn
-  </a>
-  <br/>
-  <a href="https://www.leetcode.com/rishika_jaiswal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    LeetCode
-  </a>
-</p>
+- 📂 **Portfolio:** [rishika-jaiswal62.github.io](https://rishika-jaiswal62.github.io)  
+- 🔗 **LinkedIn:** [linkedin.com/in/rishika-jaiswal62](https://linkedin.com/in/rishika-jaiswal62)
 
 <h3 align="left">Languages and Tools:</h3>
-
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> **HTML5**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> **CSS3**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20"/> **Bootstrap**
