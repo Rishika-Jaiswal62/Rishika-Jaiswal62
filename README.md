@@ -1,6 +1,5 @@
 <div align="center" style="position: relative; display: inline-block; text-align: center;">
-  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png" 
-       alt="Header Image" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+
   
   <!-- Text on top of the image -->
   <h3 style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); 
